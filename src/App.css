@@ -1,7 +1,8 @@
 body {
   background-color: #6568ff;
   color: #7fffd4;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
 }
 
 button {
@@ -17,15 +18,18 @@ button {
   padding: 0.5em 0;
 }
 
-th{
-  text-align: center;
-  border: 1px solid  #7fffd4 ;
-  background-color: aquamarine;
-  color: #6568ff;
-  font-weight:900;
-  padding: 1em;
+a {
+  color: #7fffd4;
 }
 
+th {
+  text-align: center;
+  border: 1px solid #7fffd4;
+  background-color: aquamarine;
+  color: #6568ff;
+  font-weight: 900;
+  padding: 1em;
+}
 
 td {
   text-align: center;
@@ -37,8 +41,8 @@ td {
   border: 3px solid aquamarine;
   padding: 5px;
 }
-img{
-    display: block;
-    margin: auto;
-    width: 8em;
+img {
+  display: block;
+  margin: auto;
+  width: 8em;
 }
