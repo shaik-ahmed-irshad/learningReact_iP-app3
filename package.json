@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://hoorain.app/reactApps/userData",
   "eslintConfig": {
     "extends": [
       "react-app",
